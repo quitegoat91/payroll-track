@@ -1,0 +1,6 @@
+{
+  "name": "time-tracker-root",
+  "scripts": {
+    "start": "echo Specify client or server"
+  }
+}
